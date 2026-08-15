@@ -1,16 +1,16 @@
-    <?xml version="1.0" encoding="UTF-8"?>
-    <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-    <suite name="Test Suite" parallel="classes" thread-count="3">
-        <test name="OrangeHRM Tests">
-            <classes>
-                <class name="TestCases.Login_Test"/>
-                <class name="TestCases.Dashboard_Test"/>
-                <class name="TestCases.Admin_Test"/>
-                <class name="TestCases.Pim_Test"/>
-                <class name="TestCases.Recruitment_Test"/>
-                <class name="TestCases.Buzz_Test"/>
-                <class name="TestCases.Myinfo_Test"/>
-                <class name="TestCases.Leave_Test"/>
-            </classes>
-        </test>
-    </suite>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" parallel="classes" thread-count="3">
+    <test name="OrangeHRM Tests">
+        <classes>
+            <class name="TestCases.Login_Test"/>
+            <class name="TestCases.Dashboard_Test"/>
+            <class name="TestCases.Admin_Test"/>
+            <class name="TestCases.Pim_Test"/>
+            <class name="TestCases.Recruitment_Test"/>
+            <class name="TestCases.Buzz_Test"/>
+            <class name="TestCases.Myinfo_Test"/>
+            <class name="TestCases.Leave_Test"/>
+        </classes>
+    </test>
+</suite>
