@@ -1,0 +1,1 @@
+{"uuid":"c2d36928-3dab-4825-971b-9d6a1c3368f4","name":"SearchByVacancy","children":["a5c9d425-f45f-4bcc-9f48-7dd45b981c5e"],"befores":[{"name":"SearchByVacancyData","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1786802590587,"stop":1786802590636}],"afters":[],"start":1786802590587,"stop":1786802692947}

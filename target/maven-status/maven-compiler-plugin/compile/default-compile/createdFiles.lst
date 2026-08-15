@@ -1,0 +1,9 @@
+orangehrm\Pages\PIM_Page.class
+orangehrm\Pages\MyInfo_Page.class
+orangehrm\Pages\Leave_Page.class
+orangehrm\Pages\Buzz_Page.class
+orangehrm\Pages\Dashboard_Page.class
+orangehrm\Pages\LoginPage.class
+orangehrm\Pages\Admin_Page.class
+orangehrm\Utilities\ExcelUtility.class
+orangehrm\Pages\Recruitment_Page.class

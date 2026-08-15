@@ -1,0 +1,1 @@
+{"uuid":"1baf0ec3-b87b-4f36-973f-ee03486cd8ce","name":"AddNewCandidate","children":["7ca37a0e-b904-4f88-964b-ba14ab334399"],"befores":[{"name":"AddCandidateData","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1786802563178,"stop":1786802563278}],"afters":[],"start":1786802563178,"stop":1786802692943}

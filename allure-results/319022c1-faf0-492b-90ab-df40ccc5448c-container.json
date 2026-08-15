@@ -1,0 +1,1 @@
+{"uuid":"319022c1-faf0-492b-90ab-df40ccc5448c","name":"orangehrm.Base.BaseTest.setup","children":["0f1e3c59-aeeb-459d-b922-f68a1c17e31f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1786802423162,"stop":1786802427139}],"afters":[],"start":1786802423162,"stop":1786802427139}

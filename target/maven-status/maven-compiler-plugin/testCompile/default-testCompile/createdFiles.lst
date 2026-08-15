@@ -1,0 +1,16 @@
+TestCases\Admin_Test.class
+DataProvider\RecruitmentDataProvider.class
+TestCases\Myinfo_Test.class
+orangehrm\Base\BaseTest.class
+orangehrm\Listeners\ScreenshotListener.class
+TestCases\Pim_Test.class
+TestCases\Dashboard_Test.class
+TestCases\Login_Test.class
+DataProvider\MyInfoDataProvider.class
+DataProvider\LoginDataProvider.class
+DataProvider\PIMDataProvider.class
+TestCases\Leave_Test.class
+DataProvider\AdminDataProvider.class
+DataProvider\LeaveDataProvider.class
+TestCases\Buzz_Test.class
+TestCases\Recruitment_Test.class
